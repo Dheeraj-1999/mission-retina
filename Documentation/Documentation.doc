@@ -1,0 +1,13 @@
+Preprocessing:
+* >We have start working on preprocessing part of the drive image
+* IN case of preprocessing of images What we have done is:
+* First, we applied masking on the image and stored the images in masking folder.
+* After masking of image, we applied clahe on each image for contrast enhancement of vessel structure and stored the clahe enabled images in folder.
+* After ‘clahe’, we applied Non-Local Mean to the image to remove the noise generated during clahe and stored these images in a folder.
+* There were some problems generated during the entire process of preprocessing.
+Like:	
+* In images like in number ‘34’ image, after application of Non-Local Mean some vessel structures were erased from image.
+
+Training:
+* First we have to load the images
+* For purpose of training After preprocessing we will divide the preprocessed images into 25*25 patches
