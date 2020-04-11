@@ -1,0 +1,4 @@
+Trained Model,https://storage.googleapis.com/datsets/model1/13%20by%2013/model1st13by13.zip
+Training Patches,https://storage.googleapis.com/datsets/model1/13%20by%2013/patches13n13nskip2.zip
+Testing Pathes,https://storage.googleapis.com/datsets/model1/13%20by%2013/patches13n13test.zip
+Training Outputs,https://storage.googleapis.com/datsets/model1/13%20by%2013/training_outputs.zip
