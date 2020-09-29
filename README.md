@@ -23,6 +23,9 @@ Changes in the blood vascular structure are the first indication thata person is
 ## comparative analysis of Various Deep Learning Techiques:
 ![alt text](https://github.com/Dheeraj-1999/images/blob/master/compative%20analysis%20of%20various%20techneques.JPG?raw=true)
 
+### CONCLUSION 
+A comprehensive analysis of various deep learning-based retinal blood vesselsegmentation techniques has been provided in this paper.  All the frameworksthat have been used along with the number of patches, patch sizes, number ofepochs for which the models have been trained are discussed in detail alongwith the advantages and limitations of each and every technique so as to pro-vide the reader a ready reference to various novel ideas.  The results of varioustechniques have been summarized, and different datasets and metrics have alsobeen discussed in detail.  Talking about the future scope of the retinal vesselsegmentation, performance is the key factor for any technology. This research is focused mainly on enhancing the performance of retinal vessel segmentationprocess i.e. increase the accuracy of our segmentation process and decrease thecomputational load and power needed to compute the required results.
+
 # [Link to review Paper](https://research-publication.com/wp-content/uploads/2020/vol-9-n6/AMSJ-2020-N6-62.pdf)
 
 
