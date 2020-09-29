@@ -19,6 +19,11 @@ Changes in the blood vascular structure are the first indication thata person is
 
 ### Required Results
 ![alt text](https://github.com/Dheeraj-1999/images/blob/master/01_manual1.gif?raw=true)
+
+## comparative analysis of Various Deep Learning Techiques:
+![alt text](https://github.com/Dheeraj-1999/images/blob/master/compative%20analysis%20of%20various%20techneques.JPG?raw=true)
+
 # [Link to review Paper](https://research-publication.com/wp-content/uploads/2020/vol-9-n6/AMSJ-2020-N6-62.pdf)
+
 
 
